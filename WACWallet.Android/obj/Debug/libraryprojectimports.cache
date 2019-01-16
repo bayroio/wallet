@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/20/jl/__reference__pass-v1.2.0.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/20/jl/__reference__sdk-v1.0.0.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/23/jl/arch-core-common.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/24/jl/arch-lifecycle-common.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/25/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/26/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/27/jl/support-annotations.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/28/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/29/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/3/jl/formsviewgroup.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/30/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/31/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/32/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/33/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/34/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/35/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/36/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/37/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/38/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/39/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/40/jl/bin/classes.jar</Jar>
+    <Jar>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/41/jl/bin/classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/21/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/28/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/31/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/33/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/34/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/35/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/36/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/37/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/38/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/40/jl/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/lp/21/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/35/jl/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/21.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/28.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/31.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/33.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/34.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/35.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/36.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/37.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/38.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet.Android/obj/Debug/lp/40.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

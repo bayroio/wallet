@@ -1,0 +1,12 @@
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/bin/Debug/netstandard2.0/BayroWallet.deps.json
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/bin/Debug/netstandard2.0/BayroWallet.dll
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/bin/Debug/netstandard2.0/BayroWallet.pdb
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/obj/Debug/netstandard2.0/BayroWallet.csproj.CoreCompileInputs.cache
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/obj/Debug/netstandard2.0/BayroWallet.AssemblyInfoInputs.cache
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/obj/Debug/netstandard2.0/BayroWallet.AssemblyInfo.cs
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/obj/Debug/netstandard2.0/BayroWallet.dll
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/obj/Debug/netstandard2.0/BayroWallet.pdb
+/Users/edgarherrador/Documents/Proyectos/WACWallet/WACWallet/obj/Debug/netstandard2.0/BayroWallet.csprojAssemblyReference.cache

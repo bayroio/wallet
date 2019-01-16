@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:BayroWallet" x:Class="BayroWallet.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="WhiteAppleby Wallet" HorizontalOptions="Start" VerticalOptions="Center" />
+        <Editor x:Name="txtAddress" Text="" HorizontalOptions="Center" VerticalOptions="Center" AutoSize="TextChanges" />
+        <Label x:Name="lblBalance" Text="" HorizontalOptions="Center" VerticalOptions="Center" />
+        <Label x:Name="lblUpdatedAt" Text="" HorizontalOptions="Center" VerticalOptions="Center" />
+        <Button x:Name="btnCreateAccount" Text="Create a new Account" />
+        <Button x:Name="btnTransfer" Text="Transfer" />
+        <Button x:Name="btnSync" Text="Sync" /> 
+    </StackLayout>
+</ContentPage>
